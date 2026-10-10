@@ -24,8 +24,8 @@ RUN opam update \
     ounit2 \
     qcheck \
     react \
-    ppx_deriving \
-    ppx_let \
+    ppx_compare \
+    ppx_show \
     ppx_sexp_conv \
     yojson \
     ocp-indent \
